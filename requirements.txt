@@ -1,7 +1,7 @@
 torch>=2
 torchaudio>=2
 faster-whisper==1.0.0
-transformers
-pandas
-setuptools>=65
-nltk
+transformers==4.39.3
+pandas==2.2.3
+setuptools>=68.2.2
+nltk==3.9.1
